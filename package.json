@@ -1,0 +1,25 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "comparte fotos con platzi",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasujai/Proyecto-Platzigram.git"
+  },
+  "keywords": [
+    "platzi",
+    "js",
+    "curso",
+    "definitivo"
+  ],
+  "author": "Ana Platzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anasujai/Proyecto-Platzigram/issues"
+  },
+  "homepage": "https://github.com/anasujai/Proyecto-Platzigram#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
